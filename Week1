@@ -1,8 +1,0 @@
-A description of the problem and a discussion of the background:
-A travel agency is launching a new travel package to bring tourists to New York City. To make the package attractive to customers,
-the travel agency needs to investigate into New York City to find ways to diversify from other travel packages.In order to do this
-they need to count the venues of each neighborhood and identify some of the distinct areas and provide tour guides to walk through
-some of the areas with clients.
-A description of the data and how it will be used to solve the problem:
-The map data is available through Foursquare API, and the neighborhood information can be found online through zip code.
-
